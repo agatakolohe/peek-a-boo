@@ -1,4 +1,4 @@
-.walrus-showing {
+#walrus-showing {
   display: none;
 }
 .clickable {
@@ -8,4 +8,8 @@
 
 .clickable:hover {
   text-decoration: underline;
+}
+
+#otter-showing {
+  display: none;
 }
