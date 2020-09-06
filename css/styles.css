@@ -1,3 +1,8 @@
+body {
+  background: black;
+  color: whitesmoke;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
 #walrus-showing {
   display: none;
 }
@@ -10,6 +15,19 @@
   text-decoration: underline;
 }
 
+.eat {
+  color: red;
+}
+.mlem {
+  color: turquoise;
+}
 #otter-showing {
+  display: none;
+}
+.otters {
+  width: 30%;
+  height: 30%;
+}
+#mlem-showing {
   display: none;
 }
